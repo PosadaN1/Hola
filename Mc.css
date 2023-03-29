@@ -1,0 +1,30 @@
+
+
+body{
+    background: white;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    text-decoration: underline;
+    font-family: "Comic Sans MS";
+    padding-bottom: 15px;
+}
+
+section{
+
+    font-family: "Comic Sans MS";
+    text-align: center;
+    color: rgba(248, 192, 9, 0.959);
+    border: 1px dashed gainsboro;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
